@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @imamatov
-- 👀 I'm ios Engineer
 - 👀 I’m interested in Mobile Software Development
 - 🌱 I’m currently working on ios software development
 - 💞️ I’m looking to collaborate on any open source projects in the field mobile development 
